@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NEWS OF THIS DAY</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body background = "gambar1.jpg">
+<body>
+  
+  <!-- bagian header template -->
+  <header>
+<p class="deskripsi"><marquee> Kabar Berita</marquee>.</p>
+  </header>
+  <!-- akhir bagian header template -->
+  
+  <div class="wrap">
+    <!-- bagian menu     -->
+    <nav class="menu">
+      <ul>
+              <ul>
+                 <li><a href="Home.html">HOME</a></li>
+                    <li><a href="Trending.html">Berita Trending</a></li>
+                    <li><a href="Sport.html">Sport</a></li>
+                    <li><a href="#">Berita Mancanegara</a></l>
+                    <li><a href="#">Info Unik</a></li>
+                   <li><a href="Profile">Tentang</a></li>
+                  </ul>
+        </li>
+      </ul>
+      <div class="card">
+  <img src="11.jpg" alt="John" style="width:100%">
+  <h1>Ulilalbab</h1>
+  <p class="title">CEO & Founder, Example</p>
+  <p>Harvard University</p>
+  <a href="#"><i class="fa fa-dribbble"></i></a> 
+  <a href="#"><i class="fa fa-twitter"></i></a> 
+  <a href="#"><i class="fa fa-linkedin"></i></a> 
+  <a href="#"><i class="fa fa-facebook"></i></a> 
+  <p><button>Contact</button></p>
+</div>
